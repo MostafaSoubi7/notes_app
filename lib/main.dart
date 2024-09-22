@@ -27,3 +27,10 @@ class NotesApp extends StatelessWidget {
     );
   }
 }
+
+// create states ماذا يحدث في UI
+// create cubit المؤثر واللي بيتأثر
+// create function
+// provide cubit
+// intgrate cubit
+// trigger cubit  المكان اللي بيكلم الكيوبت يبلغه ان في حاجه بتتغير
